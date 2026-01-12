@@ -1726,8 +1726,12 @@ MonoBehaviour:
   the_tag: '"blue"'
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   the_scene: 
 --- !u!1001 &519534685139635454
+=======
+--- !u!1001 &1926276517710924805
+>>>>>>> Stashed changes
 =======
 --- !u!1001 &1926276517710924805
 >>>>>>> Stashed changes
@@ -1741,6 +1745,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     - target: {fileID: 1968950634711062707, guid: b269161ea1338104ab36feec55b2cf3e, type: 3}
@@ -1787,6 +1792,8 @@ PrefabInstance:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     - target: {fileID: 5143412376198401004, guid: 5f4b791a8d1ec434aa1ed33490580ae3, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1829,6 +1836,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7406218494795522691, guid: 5f4b791a8d1ec434aa1ed33490580ae3, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1841,7 +1851,11 @@ PrefabInstance:
     m_AddedComponents: []
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_SourcePrefab: {fileID: 100100000, guid: b269161ea1338104ab36feec55b2cf3e, type: 3}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 5f4b791a8d1ec434aa1ed33490580ae3, type: 3}
+>>>>>>> Stashed changes
 =======
   m_SourcePrefab: {fileID: 100100000, guid: 5f4b791a8d1ec434aa1ed33490580ae3, type: 3}
 >>>>>>> Stashed changes
@@ -1855,7 +1869,11 @@ SceneRoots:
   - {fileID: 1864451979}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 519534685139635454}
+=======
+  - {fileID: 1926276517710924805}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1926276517710924805}
 >>>>>>> Stashed changes
