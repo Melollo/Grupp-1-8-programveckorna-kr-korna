@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/ohio.unity
     guid: 6d470b336c1b76c4e8825aa5e8a526ec
   - enabled: 1
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     path: Assets/Scenes/ohio 2 electric boogaloo.unity
     guid: 5f362e4ededb46d48937d44462c3aa04
   - enabled: 1
@@ -32,6 +38,38 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzle2.unity
     guid: ade239751cdaed0468b3264be7a62f5e
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    path: Assets/Scenes/Maze1.unity
+    guid: 07ec2ed35a27aeb4baa671d5a9fa50aa
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: abc8322ff1d63004191b27bbcc7c1105
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

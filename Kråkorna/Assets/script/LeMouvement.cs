@@ -30,21 +30,35 @@ public class LeMouvement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(speed, 0);
             animator.SetBool("iswalkright", true);
+            animator.SetBool("iswalkup", false);
+            animator.SetBool("iswalkleft", false);
+            animator.SetBool("iswalkdown", false);
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             rb.linearVelocity = new Vector2(speed-speed*2, 0);
             animator.SetBool("iswalkleft", true);
+            animator.SetBool("iswalkup", false);
+            animator.SetBool("iswalkdown", false);
+            animator.SetBool("iswalkright", false);
+
         }
         if (Input.GetKey(KeyCode.UpArrow))
         {
             rb.linearVelocity = new Vector2(0, speed);
             animator.SetBool("iswalkup", true);
+            animator.SetBool("iswalkleft", false);
+            animator.SetBool("iswalkdown", false);
+            animator.SetBool("iswalkright", false);
+
         }
         if (Input.GetKey(KeyCode.DownArrow))
         {
             rb.linearVelocity = new Vector2(0, speed-speed*2);
             animator.SetBool("iswalkdown", true);
+            animator.SetBool("iswalkright", false);
+            animator.SetBool("iswalkup", false);
+            animator.SetBool("iswalkleft", false);
         }
     }
 }
