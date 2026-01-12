@@ -280,11 +280,11 @@ Transform:
   m_GameObject: {fileID: 915477029}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.686, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1417426449}
+  m_Father: {fileID: 1192105636}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &915477031
 SpriteRenderer:
@@ -355,7 +355,7 @@ GameObject:
   - component: {fileID: 938533769}
   - component: {fileID: 938533766}
   - component: {fileID: 938533765}
-  - component: {fileID: 938533764}
+  - component: {fileID: 938533770}
   m_Layer: 0
   m_Name: IsBlock
   m_TagString: inteblue
@@ -363,24 +363,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &938533764
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 938533763}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc7d6fe3db31ca040a561bc73c0dc1f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CollissionDetection
-  codeCheckerScript: {fileID: 186118699}
-  isGreen: {fileID: 1098070116}
-  isRed: {fileID: 1661924666}
-  trueGreen: {fileID: 982094621}
-  trueYellow: {fileID: 183709966}
-  colliding: 0
 --- !u!61 &938533765
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -463,7 +445,7 @@ Transform:
   m_GameObject: {fileID: 938533763}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.88, y: 0, z: 0}
+  m_LocalPosition: {x: -5.21, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -472,6 +454,27 @@ Transform:
   - {fileID: 2104996568}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &938533770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 938533763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8873ee806ecba1240a3efa8e86641b1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CollissionDetection2
+  codeCheckerScript: {fileID: 186118699}
+  isGreen: {fileID: 1098070116}
+  isRed: {fileID: 1661924666}
+  trueGreen: {fileID: 183709966}
+  trueYellow: {fileID: 915477029}
+  falseGreen: {fileID: 982094621}
+  falseYellow: {fileID: 1531125646}
+  collidingTrue: 0
+  collidingFalse: 0
 --- !u!1 &982094621
 GameObject:
   m_ObjectHideFlags: 0
@@ -502,7 +505,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1192105636}
+  m_Father: {fileID: 1417426449}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &982094623
 SpriteRenderer:
@@ -889,12 +892,12 @@ Transform:
   m_GameObject: {fileID: 1192105631}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.97, y: 0, z: 0}
+  m_LocalPosition: {x: -4.221, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1784857317}
-  - {fileID: 982094622}
+  - {fileID: 915477030}
   - {fileID: 183709967}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -911,7 +914,7 @@ GameObject:
   - component: {fileID: 1417426447}
   m_Layer: 0
   m_Name: FalseBlock
-  m_TagString: trueBlock
+  m_TagString: falseBlock
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -998,12 +1001,12 @@ Transform:
   m_GameObject: {fileID: 1417426446}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.2, y: 0, z: 0}
+  m_LocalPosition: {x: 3.09, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 915477030}
   - {fileID: 2119380838}
+  - {fileID: 982094622}
   - {fileID: 1531125647}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1226,6 +1229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   animator: {fileID: 0}
+  speed: 5
 --- !u!212 &1588477458
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1441,7 +1445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   _img: {fileID: 1695492138}
   _x: 0
-  _y: 1
+  _y: 0.25
 --- !u!114 &1695492138
 MonoBehaviour:
   m_ObjectHideFlags: 0

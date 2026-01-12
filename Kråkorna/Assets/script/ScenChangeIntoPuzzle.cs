@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class ScenChangeIntoPuzzle : MonoBehaviour
 {
+
+    public string nextScene = "";
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,7 +22,7 @@ public class ScenChangeIntoPuzzle : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            SceneManager.LoadScene(7);
+            SceneManager.LoadScene(nextScene);
         }
     }
 

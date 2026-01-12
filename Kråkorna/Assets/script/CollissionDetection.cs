@@ -20,7 +20,6 @@ public class CollissionDetection : MonoBehaviour
         isRed.SetActive(false);
         trueGreen.SetActive(false);
         trueYellow.SetActive(false);
-
     }
 
     // Update is called once per frame
@@ -33,6 +32,7 @@ public class CollissionDetection : MonoBehaviour
             isRed.SetActive(false);
             trueGreen.SetActive(true);
             trueYellow.SetActive(false);
+
         }
         else
         {
@@ -40,6 +40,7 @@ public class CollissionDetection : MonoBehaviour
             isRed.SetActive(true);
             trueGreen.SetActive(false);
             trueYellow.SetActive(true);
+
         }
 
     }
