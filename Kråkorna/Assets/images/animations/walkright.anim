@@ -24,6 +24,7 @@ AnimationClip:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: {fileID: 5442734154257816019, guid: 4f114b3f691e8a94f8727c387b0c087b, type: 3}
     - time: 0.13333334
       value: {fileID: 2672264928237958183, guid: 4f114b3f691e8a94f8727c387b0c087b, type: 3}
@@ -40,6 +41,8 @@ AnimationClip:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       value: {fileID: 1012905199123142188, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
     - time: 0.13333334
       value: {fileID: -2257819095723989816, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
@@ -51,6 +54,9 @@ AnimationClip:
       value: {fileID: -963041404234731785, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -81,6 +87,7 @@ AnimationClip:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - {fileID: 5442734154257816019, guid: 4f114b3f691e8a94f8727c387b0c087b, type: 3}
     - {fileID: 2672264928237958183, guid: 4f114b3f691e8a94f8727c387b0c087b, type: 3}
     - {fileID: 1317961471090185791, guid: 4f114b3f691e8a94f8727c387b0c087b, type: 3}
@@ -92,6 +99,8 @@ AnimationClip:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     - {fileID: 1012905199123142188, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
     - {fileID: -2257819095723989816, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
     - {fileID: -963041404234731785, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
@@ -99,6 +108,9 @@ AnimationClip:
     - {fileID: -963041404234731785, guid: dfbb11c711a07ce41912146ac401c1c8, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -112,7 +124,11 @@ AnimationClip:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_StopTime: 1.0166667
+=======
+    m_StopTime: 0.51666665
+>>>>>>> Stashed changes
 =======
     m_StopTime: 0.51666665
 >>>>>>> Stashed changes
