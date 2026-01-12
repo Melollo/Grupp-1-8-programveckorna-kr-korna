@@ -5,10 +5,16 @@ public class LeMouvement : MonoBehaviour
     Rigidbody2D rb;
     public Animator animator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public int speed = 5;
+    
     void Start()
+
     {
         rb = GetComponent<Rigidbody2D>();
         animator =GetComponent<Animator>();
+
+
 
     }
 
@@ -22,22 +28,22 @@ public class LeMouvement : MonoBehaviour
         rb.linearVelocity = new Vector2(0, 0);
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            rb.linearVelocity = new Vector2(5, 0);
+            rb.linearVelocity = new Vector2(speed, 0);
             animator.SetBool("iswalkright", true);
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
-            rb.linearVelocity = new Vector2(-5, 0);
+            rb.linearVelocity = new Vector2(speed-speed*2, 0);
             animator.SetBool("iswalkleft", true);
         }
         if (Input.GetKey(KeyCode.UpArrow))
         {
-            rb.linearVelocity = new Vector2(0, 5);
+            rb.linearVelocity = new Vector2(0, speed);
             animator.SetBool("iswalkup", true);
         }
         if (Input.GetKey(KeyCode.DownArrow))
         {
-            rb.linearVelocity = new Vector2(0, -5);
+            rb.linearVelocity = new Vector2(0, speed-speed*2);
             animator.SetBool("iswalkdown", true);
         }
     }
