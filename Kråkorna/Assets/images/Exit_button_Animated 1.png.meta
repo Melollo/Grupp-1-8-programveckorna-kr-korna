@@ -1,112 +1,112 @@
 fileFormatVersion: 2
-guid: 60d244d1746963f4aa64753eaa6d84d2
+guid: 07e74d0c14eea7a408ad9193ac5790a9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4813841291458721269
-    second: Exit_button_Animated_0
+      213: 8270747683555733824
+    second: Exit_button_Animated 1_0
   - first:
-      213: 3780494330868031714
-    second: Exit_button_Animated_1
+      213: 1658461067244118520
+    second: Exit_button_Animated 1_1
   - first:
-      213: 4471361167729105224
-    second: Exit_button_Animated_2
+      213: -2184307269940884785
+    second: Exit_button_Animated 1_2
   - first:
-      213: -8698847984244188673
-    second: Exit_button_Animated_3
+      213: 984078666942895077
+    second: Exit_button_Animated 1_3
   - first:
-      213: -5472485498412385678
-    second: Exit_button_Animated_4
+      213: 1935387561776386243
+    second: Exit_button_Animated 1_4
   - first:
-      213: 3762456488808999931
-    second: Exit_button_Animated_5
+      213: -1250262813092980742
+    second: Exit_button_Animated 1_5
   - first:
-      213: 7919969382542715707
-    second: Exit_button_Animated_6
+      213: -7457612892300286044
+    second: Exit_button_Animated 1_6
   - first:
-      213: -3140223088205447488
-    second: Exit_button_Animated_7
+      213: 322469023686946902
+    second: Exit_button_Animated 1_7
   - first:
-      213: -3005792805745494152
-    second: Exit_button_Animated_8
+      213: 8463235852874429357
+    second: Exit_button_Animated 1_8
   - first:
-      213: -3098946705828789909
-    second: Exit_button_Animated_9
+      213: 2576516523070788758
+    second: Exit_button_Animated 1_9
   - first:
-      213: 8760491807861011786
-    second: Exit_button_Animated_10
+      213: 1572022686987099269
+    second: Exit_button_Animated 1_10
   - first:
-      213: -2732414020227433672
-    second: Exit_button_Animated_11
+      213: -5357959212496158590
+    second: Exit_button_Animated 1_11
   - first:
-      213: 6332560029344877852
-    second: Exit_button_Animated_12
+      213: 329898379299684969
+    second: Exit_button_Animated 1_12
   - first:
-      213: -6336347947537353601
-    second: Exit_button_Animated_13
+      213: 5830560415749994951
+    second: Exit_button_Animated 1_13
   - first:
-      213: 2153506549455961728
-    second: Exit_button_Animated_14
+      213: 8714631216368102544
+    second: Exit_button_Animated 1_14
   - first:
-      213: -8042204320609886783
-    second: Exit_button_Animated_15
+      213: 1786462054712954670
+    second: Exit_button_Animated 1_15
   - first:
-      213: 4473156701193963021
-    second: Exit_button_Animated_16
+      213: 4207030960534235502
+    second: Exit_button_Animated 1_16
   - first:
-      213: -939480993254244834
-    second: Exit_button_Animated_17
+      213: -2165585635560683679
+    second: Exit_button_Animated 1_17
   - first:
-      213: -245268272825954544
-    second: Exit_button_Animated_18
+      213: 871564832976977874
+    second: Exit_button_Animated 1_18
   - first:
-      213: -3987568283281455957
-    second: Exit_button_Animated_19
+      213: 1612731634248119359
+    second: Exit_button_Animated 1_19
   - first:
-      213: -164841613353892411
-    second: Exit_button_Animated_20
+      213: 5232985613959584041
+    second: Exit_button_Animated 1_20
   - first:
-      213: 4761744880337833422
-    second: Exit_button_Animated_21
+      213: -8137116407648673498
+    second: Exit_button_Animated 1_21
   - first:
-      213: -3992114972607143411
-    second: Exit_button_Animated_22
+      213: 4047759213292003302
+    second: Exit_button_Animated 1_22
   - first:
-      213: -3837034536206757352
-    second: Exit_button_Animated_23
+      213: -1416501515906299389
+    second: Exit_button_Animated 1_23
   - first:
-      213: -6778495177303593251
-    second: Exit_button_Animated_24
+      213: -5305480215609439567
+    second: Exit_button_Animated 1_24
   - first:
-      213: 9083486358877529543
-    second: Exit_button_Animated_25
+      213: 3999788123949539669
+    second: Exit_button_Animated 1_25
   - first:
-      213: -2949819293860863435
-    second: Exit_button_Animated_26
+      213: -784604890260423525
+    second: Exit_button_Animated 1_26
   - first:
-      213: -1724428391499031749
-    second: Exit_button_Animated_27
+      213: -8518673926460572384
+    second: Exit_button_Animated 1_27
   - first:
-      213: -8847383066925583324
-    second: Exit_button_Animated_28
+      213: -5121216513978191734
+    second: Exit_button_Animated 1_28
   - first:
-      213: 2024777609623897567
-    second: Exit_button_Animated_29
+      213: 7451937759364079665
+    second: Exit_button_Animated 1_29
   - first:
-      213: 2085347077185900037
-    second: Exit_button_Animated_30
+      213: 3379639261065937275
+    second: Exit_button_Animated 1_30
   - first:
-      213: 798184418509659858
-    second: Exit_button_Animated_31
+      213: -1561098453691972971
+    second: Exit_button_Animated 1_31
   - first:
-      213: -9002378400767605849
-    second: Exit_button_Animated_32
+      213: -8113280280465341942
+    second: Exit_button_Animated 1_32
   - first:
-      213: -8902268881037891070
-    second: Exit_button_Animated_33
+      213: 3877438062877815347
+    second: Exit_button_Animated 1_33
   - first:
-      213: 6654002589978657198
-    second: Exit_button_Animated_34
+      213: -4781737597385825666
+    second: Exit_button_Animated 1_34
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -153,7 +153,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -202,7 +202,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Exit_button_Animated_0
+      name: Exit_button_Animated 1_0
       rect:
         serializedVersion: 2
         x: 2
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0ace79a9dcc13db0800000000000000
-      internalID: -4813841291458721269
+      spriteID: 0417939a23997c270800000000000000
+      internalID: 8270747683555733824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_1
+      name: Exit_button_Animated 1_1
       rect:
         serializedVersion: 2
         x: 134
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e064c26093077430800000000000000
-      internalID: 3780494330868031714
+      spriteID: 8f1a6e2cd89040710800000000000000
+      internalID: 1658461067244118520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_2
+      name: Exit_button_Animated 1_2
       rect:
         serializedVersion: 2
         x: 266
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84918f0ba477d0e30800000000000000
-      internalID: 4471361167729105224
+      spriteID: fcaced66c18cfa1e0800000000000000
+      internalID: -2184307269940884785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_3
+      name: Exit_button_Animated 1_3
       rect:
         serializedVersion: 2
         x: 398
@@ -283,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff99008c8db774780800000000000000
-      internalID: -8698847984244188673
+      spriteID: 5e3db2e655628ad00800000000000000
+      internalID: 984078666942895077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_4
+      name: Exit_button_Animated 1_4
       rect:
         serializedVersion: 2
         x: 530
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27a37a40f63dd04b0800000000000000
-      internalID: -5472485498412385678
+      spriteID: 3c0146abbb0ebda10800000000000000
+      internalID: 1935387561776386243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_5
+      name: Exit_button_Animated 1_5
       rect:
         serializedVersion: 2
         x: 662
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfbe2520e3ee63430800000000000000
-      internalID: 3762456488808999931
+      spriteID: af756bd789c26aee0800000000000000
+      internalID: -1250262813092980742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_6
+      name: Exit_button_Animated 1_6
       rect:
         serializedVersion: 2
         x: 794
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3bad6e013269ed60800000000000000
-      internalID: 7919969382542715707
+      spriteID: 4a7611a269c318890800000000000000
+      internalID: -7457612892300286044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_7
+      name: Exit_button_Animated 1_7
       rect:
         serializedVersion: 2
         x: 926
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ceb8082dbfab64d0800000000000000
-      internalID: -3140223088205447488
+      spriteID: 6507de75ed3a97400800000000000000
+      internalID: 322469023686946902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_8
+      name: Exit_button_Animated 1_8
       rect:
         serializedVersion: 2
         x: 1058
@@ -393,14 +393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8777d195e574946d0800000000000000
-      internalID: -3005792805745494152
+      spriteID: da33ee40b24737570800000000000000
+      internalID: 8463235852874429357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_9
+      name: Exit_button_Animated 1_9
       rect:
         serializedVersion: 2
         x: 1190
@@ -415,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b614535d3645ef4d0800000000000000
-      internalID: -3098946705828789909
+      spriteID: 6941f837020a1c320800000000000000
+      internalID: 2576516523070788758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_10
+      name: Exit_button_Animated 1_10
       rect:
         serializedVersion: 2
         x: 1322
@@ -437,14 +437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a45764952e4839970800000000000000
-      internalID: 8760491807861011786
+      spriteID: 58c98bc0e42f0d510800000000000000
+      internalID: 1572022686987099269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_11
+      name: Exit_button_Animated 1_11
       rect:
         serializedVersion: 2
         x: 1454
@@ -459,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83bfb01fce3841ad0800000000000000
-      internalID: -2732414020227433672
+      spriteID: 2808222eb74b4a5b0800000000000000
+      internalID: -5357959212496158590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_12
+      name: Exit_button_Animated 1_12
       rect:
         serializedVersion: 2
         x: 1586
@@ -481,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1d40fb9bc5c1e750800000000000000
-      internalID: 6332560029344877852
+      spriteID: 962822ef3d8049400800000000000000
+      internalID: 329898379299684969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_13
+      name: Exit_button_Animated 1_13
       rect:
         serializedVersion: 2
         x: 1718
@@ -503,14 +503,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f74b2c5fc15c018a0800000000000000
-      internalID: -6336347947537353601
+      spriteID: 7c97b367ecf4ae050800000000000000
+      internalID: 5830560415749994951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_14
+      name: Exit_button_Animated 1_14
       rect:
         serializedVersion: 2
         x: 1850
@@ -525,14 +525,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08ebcc50ccac2ed10800000000000000
-      internalID: 2153506549455961728
+      spriteID: 09ca6205be690f870800000000000000
+      internalID: 8714631216368102544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_15
+      name: Exit_button_Animated 1_15
       rect:
         serializedVersion: 2
         x: 1982
@@ -547,14 +547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1cd9fe2a7c9546090800000000000000
-      internalID: -8042204320609886783
+      spriteID: e2f41ef06c9cac810800000000000000
+      internalID: 1786462054712954670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_16
+      name: Exit_button_Animated 1_16
       rect:
         serializedVersion: 2
         x: 2114
@@ -569,14 +569,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d060357e158d31e30800000000000000
-      internalID: 4473156701193963021
+      spriteID: e69a6b96e50626a30800000000000000
+      internalID: 4207030960534235502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_17
+      name: Exit_button_Animated 1_17
       rect:
         serializedVersion: 2
         x: 2246
@@ -591,14 +591,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1e79d3a30b46f2f0800000000000000
-      internalID: -939480993254244834
+      spriteID: 16787b5965b42f1e0800000000000000
+      internalID: -2165585635560683679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_18
+      name: Exit_button_Animated 1_18
       rect:
         serializedVersion: 2
         x: 2378
@@ -613,14 +613,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01f098b2ec1a89cf0800000000000000
-      internalID: -245268272825954544
+      spriteID: 2dfb05c099b681c00800000000000000
+      internalID: 871564832976977874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_19
+      name: Exit_button_Animated 1_19
       rect:
         serializedVersion: 2
         x: 2510
@@ -635,14 +635,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba4056df5cf49a8c0800000000000000
-      internalID: -3987568283281455957
+      spriteID: f34f46170e2916610800000000000000
+      internalID: 1612731634248119359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_20
+      name: Exit_button_Animated 1_20
       rect:
         serializedVersion: 2
         x: 2642
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c5c6df0d6d56bdf0800000000000000
-      internalID: -164841613353892411
+      spriteID: 9295acab0bc4f9840800000000000000
+      internalID: 5232985613959584041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_21
+      name: Exit_button_Animated 1_21
       rect:
         serializedVersion: 2
         x: 2774
@@ -679,14 +679,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecd42976dbd151240800000000000000
-      internalID: 4761744880337833422
+      spriteID: 62129125db7231f80800000000000000
+      internalID: -8137116407648673498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_22
+      name: Exit_button_Animated 1_22
       rect:
         serializedVersion: 2
         x: 2906
@@ -701,14 +701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d02ab3365982998c0800000000000000
-      internalID: -3992114972607143411
+      spriteID: 6ef959cfe878c2830800000000000000
+      internalID: 4047759213292003302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_23
+      name: Exit_button_Animated 1_23
       rect:
         serializedVersion: 2
         x: 3038
@@ -723,14 +723,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8129d763b6d10cac0800000000000000
-      internalID: -3837034536206757352
+      spriteID: 30a4a905063975ce0800000000000000
+      internalID: -1416501515906299389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_24
+      name: Exit_button_Animated 1_24
       rect:
         serializedVersion: 2
         x: 3170
@@ -745,14 +745,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddeee1ddc82fde1a0800000000000000
-      internalID: -6778495177303593251
+      spriteID: 1ba8cb18ad52f56b0800000000000000
+      internalID: -5305480215609439567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_25
+      name: Exit_button_Animated 1_25
       rect:
         serializedVersion: 2
         x: 3302
@@ -767,14 +767,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c5600f87b60f0e70800000000000000
-      internalID: 9083486358877529543
+      spriteID: 551a6d06b1a128730800000000000000
+      internalID: 3999788123949539669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_26
+      name: Exit_button_Animated 1_26
       rect:
         serializedVersion: 2
         x: 3434
@@ -789,14 +789,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53264d52bf22017d0800000000000000
-      internalID: -2949819293860863435
+      spriteID: b9c3ef262068c15f0800000000000000
+      internalID: -784604890260423525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_27
+      name: Exit_button_Animated 1_27
       rect:
         serializedVersion: 2
         x: 3566
@@ -811,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3b1a1ca3899118e0800000000000000
-      internalID: -1724428391499031749
+      spriteID: 02d7fef923797c980800000000000000
+      internalID: -8518673926460572384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_28
+      name: Exit_button_Animated 1_28
       rect:
         serializedVersion: 2
         x: 3698
@@ -833,14 +833,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4243810e9f7c73580800000000000000
-      internalID: -8847383066925583324
+      spriteID: a803772c6b8cde8b0800000000000000
+      internalID: -5121216513978191734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_29
+      name: Exit_button_Animated 1_29
       rect:
         serializedVersion: 2
         x: 3830
@@ -855,14 +855,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd50cca1284791c10800000000000000
-      internalID: 2024777609623897567
+      spriteID: 130673bf8e99a6760800000000000000
+      internalID: 7451937759364079665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_30
+      name: Exit_button_Animated 1_30
       rect:
         serializedVersion: 2
         x: 3962
@@ -877,14 +877,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50e80193e14a0fc10800000000000000
-      internalID: 2085347077185900037
+      spriteID: b718cc87004e6ee20800000000000000
+      internalID: 3379639261065937275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_31
+      name: Exit_button_Animated 1_31
       rect:
         serializedVersion: 2
         x: 4094
@@ -899,14 +899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2de158aef78b31b00800000000000000
-      internalID: 798184418509659858
+      spriteID: 59247483a3dd55ae0800000000000000
+      internalID: -1561098453691972971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_32
+      name: Exit_button_Animated 1_32
       rect:
         serializedVersion: 2
         x: 4226
@@ -921,14 +921,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a309988a80211380800000000000000
-      internalID: -9002378400767605849
+      spriteID: a028ea72296d76f80800000000000000
+      internalID: -8113280280465341942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_33
+      name: Exit_button_Animated 1_33
       rect:
         serializedVersion: 2
         x: 4358
@@ -943,14 +943,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20ae8b27e99c47480800000000000000
-      internalID: -8902268881037891070
+      spriteID: 3323968ef5d6fc530800000000000000
+      internalID: 3877438062877815347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit_button_Animated_34
+      name: Exit_button_Animated 1_34
       rect:
         serializedVersion: 2
         x: 4490
@@ -965,8 +965,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea10536e914c75c50800000000000000
-      internalID: 6654002589978657198
+      spriteID: e7220ba6dfad3adb0800000000000000
+      internalID: -4781737597385825666
       vertices: []
       indices: 
       edges: []
@@ -985,41 +985,41 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Exit_button_Animated_0: -4813841291458721269
-      Exit_button_Animated_1: 3780494330868031714
-      Exit_button_Animated_10: 8760491807861011786
-      Exit_button_Animated_11: -2732414020227433672
-      Exit_button_Animated_12: 6332560029344877852
-      Exit_button_Animated_13: -6336347947537353601
-      Exit_button_Animated_14: 2153506549455961728
-      Exit_button_Animated_15: -8042204320609886783
-      Exit_button_Animated_16: 4473156701193963021
-      Exit_button_Animated_17: -939480993254244834
-      Exit_button_Animated_18: -245268272825954544
-      Exit_button_Animated_19: -3987568283281455957
-      Exit_button_Animated_2: 4471361167729105224
-      Exit_button_Animated_20: -164841613353892411
-      Exit_button_Animated_21: 4761744880337833422
-      Exit_button_Animated_22: -3992114972607143411
-      Exit_button_Animated_23: -3837034536206757352
-      Exit_button_Animated_24: -6778495177303593251
-      Exit_button_Animated_25: 9083486358877529543
-      Exit_button_Animated_26: -2949819293860863435
-      Exit_button_Animated_27: -1724428391499031749
-      Exit_button_Animated_28: -8847383066925583324
-      Exit_button_Animated_29: 2024777609623897567
-      Exit_button_Animated_3: -8698847984244188673
-      Exit_button_Animated_30: 2085347077185900037
-      Exit_button_Animated_31: 798184418509659858
-      Exit_button_Animated_32: -9002378400767605849
-      Exit_button_Animated_33: -8902268881037891070
-      Exit_button_Animated_34: 6654002589978657198
-      Exit_button_Animated_4: -5472485498412385678
-      Exit_button_Animated_5: 3762456488808999931
-      Exit_button_Animated_6: 7919969382542715707
-      Exit_button_Animated_7: -3140223088205447488
-      Exit_button_Animated_8: -3005792805745494152
-      Exit_button_Animated_9: -3098946705828789909
+      Exit_button_Animated 1_0: 8270747683555733824
+      Exit_button_Animated 1_1: 1658461067244118520
+      Exit_button_Animated 1_10: 1572022686987099269
+      Exit_button_Animated 1_11: -5357959212496158590
+      Exit_button_Animated 1_12: 329898379299684969
+      Exit_button_Animated 1_13: 5830560415749994951
+      Exit_button_Animated 1_14: 8714631216368102544
+      Exit_button_Animated 1_15: 1786462054712954670
+      Exit_button_Animated 1_16: 4207030960534235502
+      Exit_button_Animated 1_17: -2165585635560683679
+      Exit_button_Animated 1_18: 871564832976977874
+      Exit_button_Animated 1_19: 1612731634248119359
+      Exit_button_Animated 1_2: -2184307269940884785
+      Exit_button_Animated 1_20: 5232985613959584041
+      Exit_button_Animated 1_21: -8137116407648673498
+      Exit_button_Animated 1_22: 4047759213292003302
+      Exit_button_Animated 1_23: -1416501515906299389
+      Exit_button_Animated 1_24: -5305480215609439567
+      Exit_button_Animated 1_25: 3999788123949539669
+      Exit_button_Animated 1_26: -784604890260423525
+      Exit_button_Animated 1_27: -8518673926460572384
+      Exit_button_Animated 1_28: -5121216513978191734
+      Exit_button_Animated 1_29: 7451937759364079665
+      Exit_button_Animated 1_3: 984078666942895077
+      Exit_button_Animated 1_30: 3379639261065937275
+      Exit_button_Animated 1_31: -1561098453691972971
+      Exit_button_Animated 1_32: -8113280280465341942
+      Exit_button_Animated 1_33: 3877438062877815347
+      Exit_button_Animated 1_34: -4781737597385825666
+      Exit_button_Animated 1_4: 1935387561776386243
+      Exit_button_Animated 1_5: -1250262813092980742
+      Exit_button_Animated 1_6: -7457612892300286044
+      Exit_button_Animated 1_7: 322469023686946902
+      Exit_button_Animated 1_8: 8463235852874429357
+      Exit_button_Animated 1_9: 2576516523070788758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
