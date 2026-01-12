@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: 4f114b3f691e8a94f8727c387b0c087b
+=======
+guid: dfbb11c711a07ce41912146ac401c1c8
+>>>>>>> Stashed changes
 =======
 guid: dfbb11c711a07ce41912146ac401c1c8
 >>>>>>> Stashed changes
@@ -41,7 +45,11 @@ ScriptedImporter:
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spritePixelsToUnits: 100
+=======
+    spritePixelsToUnits: 16
+>>>>>>> Stashed changes
 =======
     spritePixelsToUnits: 16
 >>>>>>> Stashed changes
@@ -81,7 +89,11 @@ ScriptedImporter:
     applyGammaDecoding: 0
   previousAsepriteImporterSettings:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     fileImportMode: 1
+=======
+    fileImportMode: 0
+>>>>>>> Stashed changes
 =======
     fileImportMode: 0
 >>>>>>> Stashed changes
@@ -100,7 +112,11 @@ ScriptedImporter:
     generateSpriteAtlas: 1
   asepriteImporterSettings:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     fileImportMode: 1
+=======
+    fileImportMode: 0
+>>>>>>> Stashed changes
 =======
     fileImportMode: 0
 >>>>>>> Stashed changes
@@ -119,7 +135,11 @@ ScriptedImporter:
     generateSpriteAtlas: 1
   importFileNodeState: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   platformSettingsDirtyTick: 0
+=======
+  platformSettingsDirtyTick: 639038287636724749
+>>>>>>> Stashed changes
 =======
   platformSettingsDirtyTick: 639038287636724749
 >>>>>>> Stashed changes
@@ -160,7 +180,11 @@ ScriptedImporter:
       width: 16
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: cabe446cace85594cac9501d67bd6e74
+=======
+    spriteID: 4325ebdc512d6fe48910a12d62530897
+>>>>>>> Stashed changes
 =======
     spriteID: 4325ebdc512d6fe48910a12d62530897
 >>>>>>> Stashed changes
@@ -185,7 +209,11 @@ ScriptedImporter:
       width: 16
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 70974cd08680e61459dca04996994fe9
+=======
+    spriteID: c3e47f37418496d4ea6bfe8eb12b0940
+>>>>>>> Stashed changes
 =======
     spriteID: c3e47f37418496d4ea6bfe8eb12b0940
 >>>>>>> Stashed changes
@@ -210,7 +238,11 @@ ScriptedImporter:
       width: 16
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 4fb4a1daf14a07344828855d0f0ccd6d
+=======
+    spriteID: d761d8fce725385419015d967be99717
+>>>>>>> Stashed changes
 =======
     spriteID: d761d8fce725385419015d967be99717
 >>>>>>> Stashed changes
@@ -235,7 +267,11 @@ ScriptedImporter:
       width: 16
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: ce5cf7d6bfd20fc40b478da15e989d6d
+=======
+    spriteID: 9f0d4ddf792353046b410b5173d1aeb5
+>>>>>>> Stashed changes
 =======
     spriteID: 9f0d4ddf792353046b410b5173d1aeb5
 >>>>>>> Stashed changes
@@ -260,7 +296,11 @@ ScriptedImporter:
       width: 13
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 56a3cd4a8bf20b74d843580c847318f7
+=======
+    spriteID: 790628fb4e2faab48a571db7ca61d1be
+>>>>>>> Stashed changes
 =======
     spriteID: 790628fb4e2faab48a571db7ca61d1be
 >>>>>>> Stashed changes
@@ -285,7 +325,11 @@ ScriptedImporter:
       width: 13
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 24e946a115546dc4db33c4560953d520
+=======
+    spriteID: a99dbbcb40ccdb540b1b12d008bc6a3d
+>>>>>>> Stashed changes
 =======
     spriteID: a99dbbcb40ccdb540b1b12d008bc6a3d
 >>>>>>> Stashed changes
@@ -310,7 +354,11 @@ ScriptedImporter:
       width: 13
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 0b8b461d30e22f44cb18d5d9715cb69c
+=======
+    spriteID: c34d71cccb613a244949b0971a47ecb5
+>>>>>>> Stashed changes
 =======
     spriteID: c34d71cccb613a244949b0971a47ecb5
 >>>>>>> Stashed changes
@@ -335,7 +383,11 @@ ScriptedImporter:
       width: 13
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 9226b72c4930adf4dbdeaa608fa58bed
+=======
+    spriteID: b263b23150b014342a1f324ee2479a75
+>>>>>>> Stashed changes
 =======
     spriteID: b263b23150b014342a1f324ee2479a75
 >>>>>>> Stashed changes
@@ -360,7 +412,11 @@ ScriptedImporter:
       width: 16
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 29d06c2abbe041b4ab63666aef2db398
+=======
+    spriteID: fa59807ea20ebd8439b2ee915ba04d8e
+>>>>>>> Stashed changes
 =======
     spriteID: fa59807ea20ebd8439b2ee915ba04d8e
 >>>>>>> Stashed changes
@@ -385,7 +441,11 @@ ScriptedImporter:
       width: 16
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 70a595dbca834d346b425321a364d0c9
+=======
+    spriteID: 37d1d5e10de9e8e4085a44b181c7fd6b
+>>>>>>> Stashed changes
 =======
     spriteID: 37d1d5e10de9e8e4085a44b181c7fd6b
 >>>>>>> Stashed changes
@@ -410,7 +470,11 @@ ScriptedImporter:
       width: 16
       height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: d1101847b0bc9fe41bf9ef5b677abf36
+=======
+    spriteID: 05388a5144eb9ca4da13b95fa57586e0
+>>>>>>> Stashed changes
 =======
     spriteID: 05388a5144eb9ca4da13b95fa57586e0
 >>>>>>> Stashed changes
@@ -435,7 +499,11 @@ ScriptedImporter:
       width: 16
       height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     spriteID: 4ac1a0fb8e84c224ebe7b65d7042a67a
+=======
+    spriteID: 184f4e4db5e984f4c874a895da1b011a
+>>>>>>> Stashed changes
 =======
     spriteID: 184f4e4db5e984f4c874a895da1b011a
 >>>>>>> Stashed changes
@@ -448,8 +516,11 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   spriteSheetImportData: []
 =======
+=======
+>>>>>>> Stashed changes
   spriteSheetImportData:
   - name: Riyun_0
     originalName: 
@@ -724,6 +795,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   tileSetImportData: []
   asepriteLayers:
@@ -748,7 +822,11 @@ ScriptedImporter:
         width: 16
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: cabe446cace85594cac9501d67bd6e74
+=======
+      spriteId: 4325ebdc512d6fe48910a12d62530897
+>>>>>>> Stashed changes
 =======
       spriteId: 4325ebdc512d6fe48910a12d62530897
 >>>>>>> Stashed changes
@@ -761,7 +839,11 @@ ScriptedImporter:
         width: 16
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 70974cd08680e61459dca04996994fe9
+=======
+      spriteId: c3e47f37418496d4ea6bfe8eb12b0940
+>>>>>>> Stashed changes
 =======
       spriteId: c3e47f37418496d4ea6bfe8eb12b0940
 >>>>>>> Stashed changes
@@ -774,7 +856,11 @@ ScriptedImporter:
         width: 16
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 4fb4a1daf14a07344828855d0f0ccd6d
+=======
+      spriteId: d761d8fce725385419015d967be99717
+>>>>>>> Stashed changes
 =======
       spriteId: d761d8fce725385419015d967be99717
 >>>>>>> Stashed changes
@@ -787,7 +873,11 @@ ScriptedImporter:
         width: 16
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: ce5cf7d6bfd20fc40b478da15e989d6d
+=======
+      spriteId: 9f0d4ddf792353046b410b5173d1aeb5
+>>>>>>> Stashed changes
 =======
       spriteId: 9f0d4ddf792353046b410b5173d1aeb5
 >>>>>>> Stashed changes
@@ -800,7 +890,11 @@ ScriptedImporter:
         width: 13
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 56a3cd4a8bf20b74d843580c847318f7
+=======
+      spriteId: 790628fb4e2faab48a571db7ca61d1be
+>>>>>>> Stashed changes
 =======
       spriteId: 790628fb4e2faab48a571db7ca61d1be
 >>>>>>> Stashed changes
@@ -813,7 +907,11 @@ ScriptedImporter:
         width: 13
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 24e946a115546dc4db33c4560953d520
+=======
+      spriteId: a99dbbcb40ccdb540b1b12d008bc6a3d
+>>>>>>> Stashed changes
 =======
       spriteId: a99dbbcb40ccdb540b1b12d008bc6a3d
 >>>>>>> Stashed changes
@@ -826,7 +924,11 @@ ScriptedImporter:
         width: 13
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 0b8b461d30e22f44cb18d5d9715cb69c
+=======
+      spriteId: c34d71cccb613a244949b0971a47ecb5
+>>>>>>> Stashed changes
 =======
       spriteId: c34d71cccb613a244949b0971a47ecb5
 >>>>>>> Stashed changes
@@ -839,7 +941,11 @@ ScriptedImporter:
         width: 13
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 9226b72c4930adf4dbdeaa608fa58bed
+=======
+      spriteId: b263b23150b014342a1f324ee2479a75
+>>>>>>> Stashed changes
 =======
       spriteId: b263b23150b014342a1f324ee2479a75
 >>>>>>> Stashed changes
@@ -852,7 +958,11 @@ ScriptedImporter:
         width: 16
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 29d06c2abbe041b4ab63666aef2db398
+=======
+      spriteId: fa59807ea20ebd8439b2ee915ba04d8e
+>>>>>>> Stashed changes
 =======
       spriteId: fa59807ea20ebd8439b2ee915ba04d8e
 >>>>>>> Stashed changes
@@ -865,7 +975,11 @@ ScriptedImporter:
         width: 16
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 70a595dbca834d346b425321a364d0c9
+=======
+      spriteId: 37d1d5e10de9e8e4085a44b181c7fd6b
+>>>>>>> Stashed changes
 =======
       spriteId: 37d1d5e10de9e8e4085a44b181c7fd6b
 >>>>>>> Stashed changes
@@ -878,7 +992,11 @@ ScriptedImporter:
         width: 16
         height: 15
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: d1101847b0bc9fe41bf9ef5b677abf36
+=======
+      spriteId: 05388a5144eb9ca4da13b95fa57586e0
+>>>>>>> Stashed changes
 =======
       spriteId: 05388a5144eb9ca4da13b95fa57586e0
 >>>>>>> Stashed changes
@@ -891,7 +1009,11 @@ ScriptedImporter:
         width: 16
         height: 16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       spriteId: 4ac1a0fb8e84c224ebe7b65d7042a67a
+=======
+      spriteId: 184f4e4db5e984f4c874a895da1b011a
+>>>>>>> Stashed changes
 =======
       spriteId: 184f4e4db5e984f4c874a895da1b011a
 >>>>>>> Stashed changes
@@ -901,8 +1023,11 @@ ScriptedImporter:
     parentIndex: -1
   tileSets: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   platformSettings: []
 =======
+=======
+>>>>>>> Stashed changes
   platformSettings:
   - name: DefaultTexturePlatform
     overridden: 0
@@ -928,6 +1053,9 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   generatePhysicsShape: 0
   secondarySpriteTextures: []
