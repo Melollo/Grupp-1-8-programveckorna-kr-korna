@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class kodblockchecker : MonoBehaviour
 {
     [SerializeField] private string the_tag;
+    [SerializeField] private string the_scene;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,7 +23,7 @@ public class kodblockchecker : MonoBehaviour
     {
         if (collision.gameObject.tag == the_tag)
         {
-            SceneManager.LoadScene("ohio");
+            SceneManager.LoadScene(the_scene);
             Debug.Log("hit");
         }
     }

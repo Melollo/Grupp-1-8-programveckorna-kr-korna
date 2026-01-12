@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ohio.unity
     guid: 6d470b336c1b76c4e8825aa5e8a526ec
+  - enabled: 1
+    path: Assets/Scenes/ohio 2 electric boogaloo.unity
+    guid: 5f362e4ededb46d48937d44462c3aa04
+  - enabled: 1
+    path: Assets/Scenes/ohio 1.unity
+    guid: 1e8dc1effb2005c44bb8707bfa52c600
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

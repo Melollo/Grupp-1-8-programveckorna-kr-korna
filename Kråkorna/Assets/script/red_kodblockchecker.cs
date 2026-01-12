@@ -9,6 +9,8 @@ public class red_kodblockchecker : MonoBehaviour
     [SerializeField] private string the_tag;
     [SerializeField] private Color c;
     [SerializeField] private Color reset;
+    bool mommyhentai = false;
+    public taker taker;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,6 +21,17 @@ public class red_kodblockchecker : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (mommyhentai == true)
+        {
+            sr.color = c;
+            //Debug.Log("hit");
+            taker.spongebob = true;
+        }
+        else
+        {
+             sr.color = reset;
+            taker.spongebob = false;
+        }
 
     }
 
@@ -26,10 +39,17 @@ public class red_kodblockchecker : MonoBehaviour
     {
         if (collision.gameObject.tag == the_tag)
         {
-            sr.color = c;
-            Debug.Log("hit");
+            mommyhentai = true;
         }
         //sr.color = reset;
+    }
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == the_tag)
+        {
+            mommyhentai = false;
+        }
+
     }
 }
 
