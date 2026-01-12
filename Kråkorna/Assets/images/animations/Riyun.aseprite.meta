@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 4f114b3f691e8a94f8727c387b0c087b
+=======
+guid: dfbb11c711a07ce41912146ac401c1c8
+>>>>>>> Stashed changes
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -36,7 +40,11 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
     spritePixelsToUnits: 100
+=======
+    spritePixelsToUnits: 16
+>>>>>>> Stashed changes
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -72,7 +80,11 @@ ScriptedImporter:
     textureFormatSet: 0
     applyGammaDecoding: 0
   previousAsepriteImporterSettings:
+<<<<<<< Updated upstream
     fileImportMode: 1
+=======
+    fileImportMode: 0
+>>>>>>> Stashed changes
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
@@ -87,7 +99,11 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   asepriteImporterSettings:
+<<<<<<< Updated upstream
     fileImportMode: 1
+=======
+    fileImportMode: 0
+>>>>>>> Stashed changes
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
@@ -102,7 +118,11 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
+<<<<<<< Updated upstream
   platformSettingsDirtyTick: 0
+=======
+  platformSettingsDirtyTick: 639038287636724749
+>>>>>>> Stashed changes
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -139,7 +159,11 @@ ScriptedImporter:
       y: 100
       width: 16
       height: 15
+<<<<<<< Updated upstream
     spriteID: 86739a71dd14f5b4fae11b58f812b9b1
+=======
+    spriteID: 4325ebdc512d6fe48910a12d62530897
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,7 +184,11 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
+<<<<<<< Updated upstream
     spriteID: 96eb3af63d38f11408ce8b845c1f10b8
+=======
+    spriteID: c3e47f37418496d4ea6bfe8eb12b0940
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +209,11 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 15
+<<<<<<< Updated upstream
     spriteID: 97093f4021c50d24f9468ee73af5d782
+=======
+    spriteID: d761d8fce725385419015d967be99717
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +234,11 @@ ScriptedImporter:
       y: 28
       width: 16
       height: 16
+<<<<<<< Updated upstream
     spriteID: cfe894ea0338ea845a4c7ea699aa3dc1
+=======
+    spriteID: 9f0d4ddf792353046b410b5173d1aeb5
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -223,7 +259,11 @@ ScriptedImporter:
       y: 4
       width: 13
       height: 15
+<<<<<<< Updated upstream
     spriteID: bc46a68868dd0074e8e8656d6b5dfe17
+=======
+    spriteID: 790628fb4e2faab48a571db7ca61d1be
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -244,7 +284,11 @@ ScriptedImporter:
       y: 73
       width: 13
       height: 16
+<<<<<<< Updated upstream
     spriteID: 4a90b25b90fa39249a6469555db9ec46
+=======
+    spriteID: a99dbbcb40ccdb540b1b12d008bc6a3d
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,7 +309,11 @@ ScriptedImporter:
       y: 27
       width: 13
       height: 15
+<<<<<<< Updated upstream
     spriteID: 4d0eac63d04ddb64ba4a864a8591d05c
+=======
+    spriteID: c34d71cccb613a244949b0971a47ecb5
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -286,7 +334,11 @@ ScriptedImporter:
       y: 97
       width: 13
       height: 16
+<<<<<<< Updated upstream
     spriteID: 908996501883d6d479bc558af86a1f71
+=======
+    spriteID: b263b23150b014342a1f324ee2479a75
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -307,7 +359,11 @@ ScriptedImporter:
       y: 27
       width: 16
       height: 15
+<<<<<<< Updated upstream
     spriteID: ad71a556ba6309741961d9e6ecaa4e56
+=======
+    spriteID: fa59807ea20ebd8439b2ee915ba04d8e
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -328,7 +384,11 @@ ScriptedImporter:
       y: 52
       width: 16
       height: 16
+<<<<<<< Updated upstream
     spriteID: 42270960deb291a48b84e41e6e8c4b34
+=======
+    spriteID: 37d1d5e10de9e8e4085a44b181c7fd6b
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -349,7 +409,11 @@ ScriptedImporter:
       y: 50
       width: 16
       height: 15
+<<<<<<< Updated upstream
     spriteID: 7b9397b41cb1bae49a8393fb89f7659d
+=======
+    spriteID: 05388a5144eb9ca4da13b95fa57586e0
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -370,7 +434,11 @@ ScriptedImporter:
       y: 76
       width: 16
       height: 16
+<<<<<<< Updated upstream
     spriteID: 9e6439d64910c5e4fb21debb024dc10d
+=======
+    spriteID: 184f4e4db5e984f4c874a895da1b011a
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,7 +447,284 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
+<<<<<<< Updated upstream
   spriteSheetImportData: []
+=======
+  spriteSheetImportData:
+  - name: Riyun_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 16
+      height: 15
+    spriteID: e8217d46011ac3c4a8b1b56b96c3760c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 97
+      width: 13
+      height: 16
+    spriteID: 5b82c00fc24ddbb418cc592ee9d30688
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 16
+      height: 16
+    spriteID: 09f7a808822912547a7591324441c0a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 73
+      width: 13
+      height: 16
+    spriteID: 15433304841c4c8409453a23523ad3d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 16
+      height: 16
+    spriteID: 321fafdefe8c4bf4bafa3273c8ad9eb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 50
+      width: 16
+      height: 15
+    spriteID: 6eecf93ec1354884ea028bdbf53ffde3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 16
+      height: 16
+    spriteID: 240f506ecae24d54c9318a5832c79609
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 27
+      width: 16
+      height: 15
+    spriteID: f1b587fc530e97040918c9bf4468cfbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 27
+      width: 13
+      height: 15
+    spriteID: 3c9a5af80e90c6441b80d5d0749f2401
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 16
+    spriteID: 3bf0615e39be35041958dfc669eee115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 16
+      height: 15
+    spriteID: 952e1414453ae8242a4eaaa04b288405
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 13
+      height: 15
+    spriteID: e9b10425dea0cb540bfe371ff86a325a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Riyun_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 52
+      width: 1
+      height: 1
+    spriteID: e5f560278d34d8c4187240d25ffa3f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+>>>>>>> Stashed changes
   tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -402,7 +747,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 15
+<<<<<<< Updated upstream
       spriteId: 86739a71dd14f5b4fae11b58f812b9b1
+=======
+      spriteId: 4325ebdc512d6fe48910a12d62530897
+>>>>>>> Stashed changes
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -411,7 +760,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
+<<<<<<< Updated upstream
       spriteId: 96eb3af63d38f11408ce8b845c1f10b8
+=======
+      spriteId: c3e47f37418496d4ea6bfe8eb12b0940
+>>>>>>> Stashed changes
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -420,7 +773,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 15
+<<<<<<< Updated upstream
       spriteId: 97093f4021c50d24f9468ee73af5d782
+=======
+      spriteId: d761d8fce725385419015d967be99717
+>>>>>>> Stashed changes
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -429,7 +786,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
+<<<<<<< Updated upstream
       spriteId: cfe894ea0338ea845a4c7ea699aa3dc1
+=======
+      spriteId: 9f0d4ddf792353046b410b5173d1aeb5
+>>>>>>> Stashed changes
     - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -438,7 +799,11 @@ ScriptedImporter:
         y: 0
         width: 13
         height: 15
+<<<<<<< Updated upstream
       spriteId: bc46a68868dd0074e8e8656d6b5dfe17
+=======
+      spriteId: 790628fb4e2faab48a571db7ca61d1be
+>>>>>>> Stashed changes
     - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -447,7 +812,11 @@ ScriptedImporter:
         y: 0
         width: 13
         height: 16
+<<<<<<< Updated upstream
       spriteId: 4a90b25b90fa39249a6469555db9ec46
+=======
+      spriteId: a99dbbcb40ccdb540b1b12d008bc6a3d
+>>>>>>> Stashed changes
     - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
@@ -456,7 +825,11 @@ ScriptedImporter:
         y: 0
         width: 13
         height: 15
+<<<<<<< Updated upstream
       spriteId: 4d0eac63d04ddb64ba4a864a8591d05c
+=======
+      spriteId: c34d71cccb613a244949b0971a47ecb5
+>>>>>>> Stashed changes
     - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
@@ -465,7 +838,11 @@ ScriptedImporter:
         y: 0
         width: 13
         height: 16
+<<<<<<< Updated upstream
       spriteId: 908996501883d6d479bc558af86a1f71
+=======
+      spriteId: b263b23150b014342a1f324ee2479a75
+>>>>>>> Stashed changes
     - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
@@ -474,7 +851,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 15
+<<<<<<< Updated upstream
       spriteId: ad71a556ba6309741961d9e6ecaa4e56
+=======
+      spriteId: fa59807ea20ebd8439b2ee915ba04d8e
+>>>>>>> Stashed changes
     - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
@@ -483,7 +864,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
+<<<<<<< Updated upstream
       spriteId: 42270960deb291a48b84e41e6e8c4b34
+=======
+      spriteId: 37d1d5e10de9e8e4085a44b181c7fd6b
+>>>>>>> Stashed changes
     - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
@@ -492,7 +877,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 15
+<<<<<<< Updated upstream
       spriteId: 7b9397b41cb1bae49a8393fb89f7659d
+=======
+      spriteId: 05388a5144eb9ca4da13b95fa57586e0
+>>>>>>> Stashed changes
     - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
@@ -501,13 +890,45 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
+<<<<<<< Updated upstream
       spriteId: 9e6439d64910c5e4fb21debb024dc10d
+=======
+      spriteId: 184f4e4db5e984f4c874a895da1b011a
+>>>>>>> Stashed changes
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
     parentIndex: -1
   tileSets: []
+<<<<<<< Updated upstream
   platformSettings: []
+=======
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+>>>>>>> Stashed changes
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

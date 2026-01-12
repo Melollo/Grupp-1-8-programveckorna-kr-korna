@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: df52172f4927209409a5a07c8674239d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1238766865428681884
+    second: Play_button_Animated_0
+  - first:
+      213: 21570367435557299
+    second: Play_button_Animated_1
+  - first:
+      213: 1164638414943461936
+    second: Play_button_Animated_2
+  - first:
+      213: -8555782304543513700
+    second: Play_button_Animated_3
+  - first:
+      213: -942631997114445557
+    second: Play_button_Animated_4
+  - first:
+      213: -4379066252482460186
+    second: Play_button_Animated_5
+  - first:
+      213: -5376303190381463001
+    second: Play_button_Animated_6
+  - first:
+      213: 7032310606857157240
+    second: Play_button_Animated_7
+  - first:
+      213: -3450915144804205497
+    second: Play_button_Animated_8
+  - first:
+      213: 432362602196897218
+    second: Play_button_Animated_9
+  - first:
+      213: -4886506842251850912
+    second: Play_button_Animated_10
+  - first:
+      213: -7174943827502618341
+    second: Play_button_Animated_11
+  - first:
+      213: -6590839684098193180
+    second: Play_button_Animated_12
+  - first:
+      213: 8447232552156702409
+    second: Play_button_Animated_13
+  - first:
+      213: 8764823116887917413
+    second: Play_button_Animated_14
+  - first:
+      213: 1990859497560164181
+    second: Play_button_Animated_15
+  - first:
+      213: -3530504617724114038
+    second: Play_button_Animated_16
+  - first:
+      213: -8882225755505377674
+    second: Play_button_Animated_17
+  - first:
+      213: -7026761198283126967
+    second: Play_button_Animated_18
+  - first:
+      213: 596828980235332307
+    second: Play_button_Animated_19
+  - first:
+      213: 4333609574892516803
+    second: Play_button_Animated_20
+  - first:
+      213: -4901653492100329422
+    second: Play_button_Animated_21
+  - first:
+      213: 4272892054914107057
+    second: Play_button_Animated_22
+  - first:
+      213: 7514650207094026041
+    second: Play_button_Animated_23
+  - first:
+      213: -8640250488519736739
+    second: Play_button_Animated_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play_button_Animated_0
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 35
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b699269140fcee0800000000000000
+      internalID: -1238766865428681884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 35
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032aa76c770a92010800000000000000
+      internalID: 1164638414943461936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c936c121351c34980800000000000000
+      internalID: -8555782304543513700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01931261391be2f0800000000000000
+      internalID: -942631997114445557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 35
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c1e4d17e6a33c0800000000000000
+      internalID: -4379066252482460186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 38
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a7384bbb88365b0800000000000000
+      internalID: -5376303190381463001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 33
+        width: 113
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cfde3a5f2eb10d0800000000000000
+      internalID: -3450915144804205497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 35
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0c16fe7f000600800000000000000
+      internalID: 432362602196897218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b0013bae3af2cb0800000000000000
+      internalID: -4886506842251850912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 35
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1923567a9a7d6c90800000000000000
+      internalID: -7174943827502618341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_12
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 34
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e887c12a32a884a0800000000000000
+      internalID: -6590839684098193180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 35
+        width: 107
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6aa6630499a3570800000000000000
+      internalID: 8447232552156702409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_14
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638c31df28e2a970800000000000000
+      internalID: 8764823116887917413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_15
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55749cd3a24f0ab10800000000000000
+      internalID: 1990859497560164181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_16
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8dae61c0210fc0800000000000000
+      internalID: -3530504617724114038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_17
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eb6444cbefbb480800000000000000
+      internalID: -8882225755505377674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_18
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94706d66bedeb7e90800000000000000
+      internalID: -7026761198283126967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_19
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae59e9bcc584800800000000000000
+      internalID: 596828980235332307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_20
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c533baa2f2142c30800000000000000
+      internalID: 4333609574892516803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_button_Animated_21
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 35
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309e477e14d9fbb0800000000000000
+      internalID: -4901653492100329422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8f9c34e718adf2249a71393427a0d266
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":98.0,"y":65.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Play_button_Animated_0: -1238766865428681884
+      Play_button_Animated_1: 21570367435557299
+      Play_button_Animated_10: -4886506842251850912
+      Play_button_Animated_11: -7174943827502618341
+      Play_button_Animated_12: -6590839684098193180
+      Play_button_Animated_13: 8447232552156702409
+      Play_button_Animated_14: 8764823116887917413
+      Play_button_Animated_15: 1990859497560164181
+      Play_button_Animated_16: -3530504617724114038
+      Play_button_Animated_17: -8882225755505377674
+      Play_button_Animated_18: -7026761198283126967
+      Play_button_Animated_19: 596828980235332307
+      Play_button_Animated_2: 1164638414943461936
+      Play_button_Animated_20: 4333609574892516803
+      Play_button_Animated_21: -4901653492100329422
+      Play_button_Animated_22: 4272892054914107057
+      Play_button_Animated_23: 7514650207094026041
+      Play_button_Animated_24: -8640250488519736739
+      Play_button_Animated_3: -8555782304543513700
+      Play_button_Animated_4: -942631997114445557
+      Play_button_Animated_5: -4379066252482460186
+      Play_button_Animated_6: -5376303190381463001
+      Play_button_Animated_7: 7032310606857157240
+      Play_button_Animated_8: -3450915144804205497
+      Play_button_Animated_9: 432362602196897218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

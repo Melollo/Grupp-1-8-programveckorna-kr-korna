@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 60d244d1746963f4aa64753eaa6d84d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4813841291458721269
+    second: Exit_button_Animated_0
+  - first:
+      213: 3780494330868031714
+    second: Exit_button_Animated_1
+  - first:
+      213: 4471361167729105224
+    second: Exit_button_Animated_2
+  - first:
+      213: -8698847984244188673
+    second: Exit_button_Animated_3
+  - first:
+      213: -5472485498412385678
+    second: Exit_button_Animated_4
+  - first:
+      213: 3762456488808999931
+    second: Exit_button_Animated_5
+  - first:
+      213: 7919969382542715707
+    second: Exit_button_Animated_6
+  - first:
+      213: -3140223088205447488
+    second: Exit_button_Animated_7
+  - first:
+      213: -3005792805745494152
+    second: Exit_button_Animated_8
+  - first:
+      213: -3098946705828789909
+    second: Exit_button_Animated_9
+  - first:
+      213: 8760491807861011786
+    second: Exit_button_Animated_10
+  - first:
+      213: -2732414020227433672
+    second: Exit_button_Animated_11
+  - first:
+      213: 6332560029344877852
+    second: Exit_button_Animated_12
+  - first:
+      213: -6336347947537353601
+    second: Exit_button_Animated_13
+  - first:
+      213: 2153506549455961728
+    second: Exit_button_Animated_14
+  - first:
+      213: -8042204320609886783
+    second: Exit_button_Animated_15
+  - first:
+      213: 4473156701193963021
+    second: Exit_button_Animated_16
+  - first:
+      213: -939480993254244834
+    second: Exit_button_Animated_17
+  - first:
+      213: -245268272825954544
+    second: Exit_button_Animated_18
+  - first:
+      213: -3987568283281455957
+    second: Exit_button_Animated_19
+  - first:
+      213: -164841613353892411
+    second: Exit_button_Animated_20
+  - first:
+      213: 4761744880337833422
+    second: Exit_button_Animated_21
+  - first:
+      213: -3992114972607143411
+    second: Exit_button_Animated_22
+  - first:
+      213: -3837034536206757352
+    second: Exit_button_Animated_23
+  - first:
+      213: -6778495177303593251
+    second: Exit_button_Animated_24
+  - first:
+      213: 9083486358877529543
+    second: Exit_button_Animated_25
+  - first:
+      213: -2949819293860863435
+    second: Exit_button_Animated_26
+  - first:
+      213: -1724428391499031749
+    second: Exit_button_Animated_27
+  - first:
+      213: -8847383066925583324
+    second: Exit_button_Animated_28
+  - first:
+      213: 2024777609623897567
+    second: Exit_button_Animated_29
+  - first:
+      213: 2085347077185900037
+    second: Exit_button_Animated_30
+  - first:
+      213: 798184418509659858
+    second: Exit_button_Animated_31
+  - first:
+      213: -9002378400767605849
+    second: Exit_button_Animated_32
+  - first:
+      213: -8902268881037891070
+    second: Exit_button_Animated_33
+  - first:
+      213: 6654002589978657198
+    second: Exit_button_Animated_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit_button_Animated_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ace79a9dcc13db0800000000000000
+      internalID: -4813841291458721269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e064c26093077430800000000000000
+      internalID: 3780494330868031714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84918f0ba477d0e30800000000000000
+      internalID: 4471361167729105224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff99008c8db774780800000000000000
+      internalID: -8698847984244188673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a37a40f63dd04b0800000000000000
+      internalID: -5472485498412385678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe2520e3ee63430800000000000000
+      internalID: 3762456488808999931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bad6e013269ed60800000000000000
+      internalID: 7919969382542715707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb8082dbfab64d0800000000000000
+      internalID: -3140223088205447488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_8
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777d195e574946d0800000000000000
+      internalID: -3005792805745494152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614535d3645ef4d0800000000000000
+      internalID: -3098946705828789909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_10
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45764952e4839970800000000000000
+      internalID: 8760491807861011786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bfb01fce3841ad0800000000000000
+      internalID: -2732414020227433672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_12
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d40fb9bc5c1e750800000000000000
+      internalID: 6332560029344877852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_13
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b2c5fc15c018a0800000000000000
+      internalID: -6336347947537353601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ebcc50ccac2ed10800000000000000
+      internalID: 2153506549455961728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_15
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9fe2a7c9546090800000000000000
+      internalID: -8042204320609886783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_16
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060357e158d31e30800000000000000
+      internalID: 4473156701193963021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_17
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e79d3a30b46f2f0800000000000000
+      internalID: -939480993254244834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_18
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f098b2ec1a89cf0800000000000000
+      internalID: -245268272825954544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_19
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4056df5cf49a8c0800000000000000
+      internalID: -3987568283281455957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_20
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5c6df0d6d56bdf0800000000000000
+      internalID: -164841613353892411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_21
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd42976dbd151240800000000000000
+      internalID: 4761744880337833422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_22
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ab3365982998c0800000000000000
+      internalID: -3992114972607143411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_23
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129d763b6d10cac0800000000000000
+      internalID: -3837034536206757352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_24
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeee1ddc82fde1a0800000000000000
+      internalID: -6778495177303593251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_25
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5600f87b60f0e70800000000000000
+      internalID: 9083486358877529543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_26
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53264d52bf22017d0800000000000000
+      internalID: -2949819293860863435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_27
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1a1ca3899118e0800000000000000
+      internalID: -1724428391499031749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_28
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243810e9f7c73580800000000000000
+      internalID: -8847383066925583324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_29
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd50cca1284791c10800000000000000
+      internalID: 2024777609623897567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_30
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e80193e14a0fc10800000000000000
+      internalID: 2085347077185900037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_31
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de158aef78b31b00800000000000000
+      internalID: 798184418509659858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_32
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a309988a80211380800000000000000
+      internalID: -9002378400767605849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_33
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae8b27e99c47480800000000000000
+      internalID: -8902268881037891070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_button_Animated_34
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 39
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10536e914c75c50800000000000000
+      internalID: 6654002589978657198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Exit_button_Animated_0: -4813841291458721269
+      Exit_button_Animated_1: 3780494330868031714
+      Exit_button_Animated_10: 8760491807861011786
+      Exit_button_Animated_11: -2732414020227433672
+      Exit_button_Animated_12: 6332560029344877852
+      Exit_button_Animated_13: -6336347947537353601
+      Exit_button_Animated_14: 2153506549455961728
+      Exit_button_Animated_15: -8042204320609886783
+      Exit_button_Animated_16: 4473156701193963021
+      Exit_button_Animated_17: -939480993254244834
+      Exit_button_Animated_18: -245268272825954544
+      Exit_button_Animated_19: -3987568283281455957
+      Exit_button_Animated_2: 4471361167729105224
+      Exit_button_Animated_20: -164841613353892411
+      Exit_button_Animated_21: 4761744880337833422
+      Exit_button_Animated_22: -3992114972607143411
+      Exit_button_Animated_23: -3837034536206757352
+      Exit_button_Animated_24: -6778495177303593251
+      Exit_button_Animated_25: 9083486358877529543
+      Exit_button_Animated_26: -2949819293860863435
+      Exit_button_Animated_27: -1724428391499031749
+      Exit_button_Animated_28: -8847383066925583324
+      Exit_button_Animated_29: 2024777609623897567
+      Exit_button_Animated_3: -8698847984244188673
+      Exit_button_Animated_30: 2085347077185900037
+      Exit_button_Animated_31: 798184418509659858
+      Exit_button_Animated_32: -9002378400767605849
+      Exit_button_Animated_33: -8902268881037891070
+      Exit_button_Animated_34: 6654002589978657198
+      Exit_button_Animated_4: -5472485498412385678
+      Exit_button_Animated_5: 3762456488808999931
+      Exit_button_Animated_6: 7919969382542715707
+      Exit_button_Animated_7: -3140223088205447488
+      Exit_button_Animated_8: -3005792805745494152
+      Exit_button_Animated_9: -3098946705828789909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

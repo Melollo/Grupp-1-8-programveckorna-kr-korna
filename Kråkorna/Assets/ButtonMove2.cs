@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ButtonMove : MonoBehaviour
+public class ButtonMove2 : MonoBehaviour
 {
     public float amplitude = 0.2f;
     public float speed = 1f;
@@ -16,7 +16,8 @@ public class ButtonMove : MonoBehaviour
     {
         float newY = startY + Mathf.Sin(Time.time * speed) * amplitude;
         transform.position = new Vector3(transform.position.x, newY, transform.position.z);
-        float rotation = -55 + newY * 0.1f ;
+
+        float rotation = 30 + -newY * 0.1f;
         transform.eulerAngles = Vector3.forward * rotation;
 
     }
