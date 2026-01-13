@@ -3,26 +3,32 @@ using UnityEngine;
 public class CodeCheckerScript : MonoBehaviour
 {
 
+    public static CodeCheckerScript Instance;
+
     public bool puzzleSolved = false;
+
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         
     }
-    void Awake()
-    {
-        DontDestroyOnLoad(this.gameObject);
-    }
 
     // Update is called once per frame
     void Update()
     {
         
-    }
-    public void SolvePuzzle()
-    {
-        puzzleSolved=true;
     }
 
 }

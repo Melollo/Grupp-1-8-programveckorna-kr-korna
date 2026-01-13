@@ -1,7 +1,11 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ExitLogic : MonoBehaviour
 {
+
+    public string nextScene = "";
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -11,6 +15,25 @@ public class ExitLogic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            
+            if (CodeCheckerScript.Instance.puzzleSolved == true)
+            {
+                SceneManager.LoadScene(nextScene);
+            }
+            else
+            {
+
+            }
+
+        }
+
+    }
+
 }

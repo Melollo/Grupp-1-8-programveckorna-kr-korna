@@ -174,9 +174,4 @@ public class CollissionDetection3 : MonoBehaviour
         }
     }
 
-    void SolvePuzzle()
-    {
-        codeCheckerScript.SolvePuzzle();
-    }
-
 }

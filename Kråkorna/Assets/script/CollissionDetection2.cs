@@ -3,8 +3,6 @@ using UnityEngine;
 public class CollissionDetection2 : MonoBehaviour
 {
 
-    public CodeCheckerScript codeCheckerScript;
-
     public GameObject isGreen;
     public GameObject isRed;
     public GameObject trueGreen;
@@ -32,8 +30,6 @@ public class CollissionDetection2 : MonoBehaviour
         falseYellow.SetActive(false);
         trueTwoYellow.SetActive(false);
         trueTwoRed.SetActive(false);
-
-        codeCheckerScript.puzzleSolved = false;
 
     }
 
@@ -92,7 +88,6 @@ public class CollissionDetection2 : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("falseBlock"))
         {
-            SolvePuzzle();
             collidingFalse = true;
         }
         if (collision.gameObject.CompareTag("trueBlock"))
@@ -118,11 +113,6 @@ public class CollissionDetection2 : MonoBehaviour
         {
             collidingTrueTwo = false;
         }
-    }
-
-    void SolvePuzzle()
-    {
-        codeCheckerScript.SolvePuzzle();
     }
 
 }
