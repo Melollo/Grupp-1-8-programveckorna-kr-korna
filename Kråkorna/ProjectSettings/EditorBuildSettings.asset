@@ -4,6 +4,30 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: abc8322ff1d63004191b27bbcc7c1105
+  - enabled: 1
+    path: Assets/Scenes/DrawingMaze.unity
+    guid: 8831f16dc6dac84428e9a22247a10386
+  - enabled: 1
+    path: Assets/Scenes/Maze1.unity
+    guid: 07ec2ed35a27aeb4baa671d5a9fa50aa
+  - enabled: 1
+    path: Assets/Scenes/PlaceholderMaze2.unity
+    guid: 835556cd1350c284ea49f6c5639ffe6d
+  - enabled: 1
+    path: Assets/Scenes/PlaceHolderMaze3.unity
+    guid: f69e23e8d78f50149a8ba8c0a7c256a6
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: feb33b636d842a542b6fc6420e648ea2
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2.unity
+    guid: ade239751cdaed0468b3264be7a62f5e
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3.unity
+    guid: 8a3cabca0093f024a9fa18a0fb38426b
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
