@@ -25,6 +25,7 @@ public class ExitLogic : MonoBehaviour
             
             if (CodeCheckerScript.Instance.puzzleSolved == true)
             {
+                CodeCheckerScript.Instance.puzzleSolved = false;
                 SceneManager.LoadScene(nextScene);
             }
             else

@@ -73,6 +73,9 @@ public class CollissionDetection2 : MonoBehaviour
             isRed.SetActive(false);
             falseGreen.SetActive(true);
             falseYellow.SetActive(false);
+
+            CodeCheckerScript.Instance.puzzleSolved = true;
+
         }
         else
         {
@@ -80,6 +83,9 @@ public class CollissionDetection2 : MonoBehaviour
             isRed.SetActive(true);
             falseGreen.SetActive(false);
             falseYellow.SetActive(true);
+
+            CodeCheckerScript.Instance.puzzleSolved = false;
+
         }
 
     }

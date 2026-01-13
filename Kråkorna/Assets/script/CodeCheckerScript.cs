@@ -1,10 +1,11 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class CodeCheckerScript : MonoBehaviour
 {
 
     public static CodeCheckerScript Instance;
 
+    public int puzzleThreeSolved = 0;
     public bool puzzleSolved = false;
 
     private void Awake()
@@ -29,6 +30,11 @@ public class CodeCheckerScript : MonoBehaviour
     void Update()
     {
         
+        if (puzzleThreeSolved > 2)
+        {
+            puzzleSolved = true;
+        }
+
     }
 
 }

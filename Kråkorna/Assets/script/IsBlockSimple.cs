@@ -16,6 +16,7 @@ public class IsBlockSimple : MonoBehaviour
     {
         green.SetActive(isCorrect);
         red.SetActive(!isCorrect);
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -29,6 +30,12 @@ public class IsBlockSimple : MonoBehaviour
         {
             isCorrect = !wantsTrue;
         }
+
+        if (isCorrect)
+        {
+            CodeCheckerScript.Instance.puzzleThreeSolved++;
+        }
+
     }
 
     void OnCollisionExit2D(Collision2D collision)
@@ -38,5 +45,11 @@ public class IsBlockSimple : MonoBehaviour
         {
             isCorrect = false;
         }
+
+        if (isCorrect == false)
+        {
+            CodeCheckerScript.Instance.puzzleThreeSolved--;
+        }
+
     }
 }
