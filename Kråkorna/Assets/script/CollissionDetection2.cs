@@ -15,6 +15,11 @@ public class CollissionDetection2 : MonoBehaviour
     public bool collidingTrue = false;
     public bool collidingFalse = false;
 
+    public GameObject trueTwoYellow;
+    public GameObject trueTwoRed;
+
+    public bool collidingTrueTwo = false;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,6 +30,8 @@ public class CollissionDetection2 : MonoBehaviour
         trueYellow.SetActive(false);
         falseGreen.SetActive(false);
         falseYellow.SetActive(false);
+        trueTwoYellow.SetActive(false);
+        trueTwoRed.SetActive(false);
 
         codeCheckerScript.puzzleSolved = false;
 
@@ -47,6 +54,21 @@ public class CollissionDetection2 : MonoBehaviour
             isRed.SetActive(true);
             trueGreen.SetActive(true);
             trueYellow.SetActive(false);
+        }
+
+        if (collidingTrueTwo)
+        {
+            isGreen.SetActive(false);
+            isRed.SetActive(true);
+            trueTwoYellow.SetActive(false);
+            trueTwoRed.SetActive(true);
+        }
+        else
+        {
+            isGreen.SetActive(false);
+            isRed.SetActive(true);
+            trueTwoYellow.SetActive(true);
+            trueTwoRed.SetActive(false);
         }
 
         if (collidingFalse)
@@ -77,6 +99,10 @@ public class CollissionDetection2 : MonoBehaviour
         {
             collidingTrue = true;
         }
+        if (collision.gameObject.CompareTag("trueBlockTwo"))
+        {
+            collidingTrueTwo = true;
+        }
     }
     void OnCollisionExit2D(Collision2D collision)
     {
@@ -87,6 +113,10 @@ public class CollissionDetection2 : MonoBehaviour
         if (collision.gameObject.CompareTag("trueBlock"))
         {
             collidingTrue = false;
+        }
+        if (collision.gameObject.CompareTag("trueBlockTwo"))
+        {
+            collidingTrueTwo = false;
         }
     }
 
