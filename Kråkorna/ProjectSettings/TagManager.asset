@@ -11,6 +11,9 @@ TagManager:
   - trueBlock
   - falseBlock
   - trueBlockTwo
+  - falseBlockTwo
+  - TrueBlock
+  - FalseBlock
   layers:
   - Default
   - TransparentFX
