@@ -1630,7 +1630,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79df7c8606c1bc24eab6a451c3143d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::startButton
-  startScene: DrawingMaze
+  startScene: tutorial 1
 --- !u!4 &1950717231
 Transform:
   m_ObjectHideFlags: 0

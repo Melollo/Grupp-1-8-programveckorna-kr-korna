@@ -6,7 +6,7 @@ public class CodeCheckerScript : MonoBehaviour
     public static CodeCheckerScript Instance;
 
     public int puzzleThreeSolved = 0;
-    public bool puzzleSolved = false;
+    public bool puzzleSolved = true;
 
     private void Awake()
     {
