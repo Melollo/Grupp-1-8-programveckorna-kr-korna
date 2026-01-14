@@ -136,6 +136,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red_Glitch_effect
       objectReference: {fileID: 0}
+    - target: {fileID: 1160356261127867848, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3626916397498700004, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -199,7 +207,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -2253911629886400664, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1795551925}
   m_SourcePrefab: {fileID: -8435245712485981826, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
 --- !u!1 &276057474
 GameObject:
@@ -11367,6 +11378,11 @@ PrefabInstance:
       addedObject: {fileID: 2053113224}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -8435245712485981826, guid: dc27350fdfe260a448ca734783e4c485, type: 3}
+--- !u!1 &638280130 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2253911629886400664, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
+  m_PrefabInstance: {fileID: 35924726}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &694644862
 GameObject:
   m_ObjectHideFlags: 0
@@ -14242,6 +14258,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 2f9213814044b0543b8cce48ac8cea79, type: 3}
   m_PrefabInstance: {fileID: 35924726}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1795551925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638280130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d69ec70d8696ad4a82f63438a83c56c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExitLogic
+  nextScene: PlaceholderMaze2
 --- !u!1 &2053113220
 GameObject:
   m_ObjectHideFlags: 0
