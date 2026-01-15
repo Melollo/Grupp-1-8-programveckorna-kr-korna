@@ -52759,7 +52759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d69ec70d8696ad4a82f63438a83c56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  nextScene: StartScreen
+  nextScene: Confetti
 --- !u!61 &2089802933
 BoxCollider2D:
   m_ObjectHideFlags: 0

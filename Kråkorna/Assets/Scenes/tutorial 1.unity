@@ -13364,52 +13364,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3690476029790029569, guid: b269161ea1338104ab36feec55b2cf3e, type: 3}
   m_PrefabInstance: {fileID: 711146926}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1122049934
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1122049936}
-  - component: {fileID: 1122049935}
-  m_Layer: 0
-  m_Name: CodeCheckerScript
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1122049935
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1122049934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c42210d1bd45fa045945ca8aa4b7e646, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  puzzleThreeSolved: 0
-  puzzleSolved: 1
---- !u!4 &1122049936
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1122049934}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.28889, y: -0.20791, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1178655096
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13537,6 +13491,7 @@ GameObject:
   - component: {fileID: 1424820478}
   - component: {fileID: 1424820480}
   - component: {fileID: 1424820481}
+  - component: {fileID: 1424820482}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -13670,11 +13625,24 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1424820477}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8d69ec70d8696ad4a82f63438a83c56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  nextScene: tutorial 2
+--- !u!114 &1424820482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424820477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d78fb1ac9e45944b9c28e3e1865ee1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
   nextScene: tutorial 2
 --- !u!1 &1661772861
 GameObject:
@@ -14387,4 +14355,3 @@ SceneRoots:
   - {fileID: 711146926}
   - {fileID: 1340957453}
   - {fileID: 694644863}
-  - {fileID: 1122049936}
