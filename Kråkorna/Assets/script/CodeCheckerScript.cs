@@ -7,6 +7,7 @@ public class CodeCheckerScript : MonoBehaviour
 
     public int puzzleThreeSolved = 0;
     public bool puzzleSolved = true;
+    public bool meth = false;
 
     private void Awake()
     {

@@ -23,6 +23,7 @@ public class CrystalMeth : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             leMouvement.speed = 10;
+            CodeCheckerScript.Instance.meth = true;
         }
 
     }
