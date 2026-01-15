@@ -11,6 +11,7 @@ public class ExitLogic : MonoBehaviour
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        CodeCheckerScript.Instance.meth = false;
     }
 
     // Update is called once per frame

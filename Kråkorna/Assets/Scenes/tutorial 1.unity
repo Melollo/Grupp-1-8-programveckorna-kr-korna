@@ -11660,6 +11660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 774958254}
   - component: {fileID: 774958255}
+  - component: {fileID: 774958256}
   m_Layer: 0
   m_Name: PostProcess
   m_TagString: Untagged
@@ -11699,6 +11700,18 @@ MonoBehaviour:
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: ec313a36f86b9db4e974f833a9072b32, type: 2}
+--- !u!114 &774958256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774958253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80cbfedb7c7f89649b9f035c14972a57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MethPostProcess
 --- !u!1 &835510380
 GameObject:
   m_ObjectHideFlags: 0
