@@ -847,7 +847,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "GLITCHED - OUT of order\r\n\nDevelopment\r\n\nCornelia \r\nJonathan \r\nLukas\r\nMelvin\n\nGraphics\n\nDaniel\nJacob\n\nHonorable
-    Mention\r\nRion\n\nIn Support Of\n\nGobbo the Gobster"
+    Mention\r\nRion\n\nIn Support Of\nGobbo the Gobster"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
