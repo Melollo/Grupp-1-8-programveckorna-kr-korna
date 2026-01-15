@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be31e591504ed8c409db53493c44de58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonMove
-  amplitude: 0.5
+  amplitude: 0.15
   speed: 1.5
   tiltAngle: 1
   tiltSpeed: 3
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be31e591504ed8c409db53493c44de58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonMove
-  amplitude: 0.5
+  amplitude: 0.1
   speed: 1.3
   tiltAngle: 2
   tiltSpeed: 2
