@@ -48,7 +48,6 @@ public class IsBlockSimple : MonoBehaviour
 
         if (isCorrect == false)
         {
-            CodeCheckerScript.Instance.puzzleThreeSolved--;
         }
 
     }
